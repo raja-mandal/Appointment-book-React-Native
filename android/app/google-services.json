@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "291590670142",
+    "project_id": "react-native-development-46ea5",
+    "storage_bucket": "react-native-development-46ea5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291590670142:android:69bb585569cca31c6b0e6f",
+        "android_client_info": {
+          "package_name": "com.booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291590670142-ihnidnilibpkj04b2k65t9ttk9d4lvj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClaeSMA1T9mAEYGCbgnNUD3oj9e-dCw1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291590670142-ihnidnilibpkj04b2k65t9ttk9d4lvj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
